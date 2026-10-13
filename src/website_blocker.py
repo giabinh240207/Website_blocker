@@ -74,6 +74,7 @@ def block_until(sites, end_time_str):
 if __name__ == "__main__":
     # Ví dụ sử dụng:
     danh_sach_chan = [
+        'facebook.com'
         "tiktok.com",
         "instagram.com",
         "threads.com",
